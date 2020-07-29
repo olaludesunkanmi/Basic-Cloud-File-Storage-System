@@ -1,24 +1,24 @@
 {
-  "name": "Basic-Cloud-File-Storage-System",
+  "name": "Basic-Cloud-File-Storage-System-SUA",
   "version": "1.0.0",
   "description": "SkillUp Africa Backend Project on Basic Cloud File Storage System",
   "main": "server.js",
   "scripts": {
     "dev": "nodemon main",
-    "start": "node main",
+    "start": "node server.js",
     "test": "jasmine"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Tboy-AK/Basic-Cloud-File-Storage-System.git"
+    "url": "git+https://github.com/olaludesunkanmi/Basic-Cloud-File-Storage-System.git"
   },
   "keywords": [],
-  "author": "Tobi Akanji",
+  "author": "Sunkanmi Olalude",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Tboy-AK/Basic-Cloud-File-Storage-System/issues"
+    "url": "https://github.com/olaludesunkanmi/Basic-Cloud-File-Storage-System"
   },
-  "homepage": "https://github.com/Tboy-AK/Basic-Cloud-File-Storage-System#readme",
+  "homepage": "https://github.com/olaludesunkanmi/Basic-Cloud-File-Storage-System#readme",
   "devDependencies": {
     "eslint": "^7.5.0",
     "eslint-config-airbnb-base": "^14.2.0",
